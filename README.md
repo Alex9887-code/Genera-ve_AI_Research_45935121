@@ -1,5 +1,5 @@
 PROJECT: Generative AI Research
-PROJECT ID: 45935121
+STUDENT ID: 45935121
 DATE: 2026-04-27
 
 OVERVIEW
@@ -14,7 +14,7 @@ DIRECTORY STRUCTURE
 
 MAIN SUBMISSION
 The primary deliverable is located in the directory 05_Submissions:
-- 2026-04-27_GenAI_ResearchPaper_Final_v02.pdf
+- 2026-04-27_45935121_GenAI_ResearchPaper_Final_v02.pdf
 
 CONTACT & LICENSE
 Refer to the LICENSE file for distribution rights.
